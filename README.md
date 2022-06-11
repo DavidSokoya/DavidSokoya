@@ -1,10 +1,12 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hi! I'm David.</h2>
+
+<h3>Front-End Developer</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Frontend Developer & Blockchain Content Creator.
 - 🎓 &nbsp; Studying Computer Science at Olabisi Onabanjo University.
 - 💼 &nbsp; Currently working on Smart Contract Development.
 - 🌱 &nbsp; Learning more about Blockchain and Artificial Intelligence.
@@ -14,12 +16,13 @@
 
 
 - 🌐 &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -43,9 +46,9 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p >
 <a href="https://www.linkedin.com/in/thedavidsokoya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Sokoya-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/thedavidsokoya"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-david__-blue?style=flat-square&logo=instagram"></a>
-<a href="https://www.twitter.com/thedavidsokoya"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-david__-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.twitter.com/thedavidsokoya"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-thedavidsokoya-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.instagram.com/thedavidsokoya"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thedavidsokoya-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:davidsokoya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davidsokoya@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
