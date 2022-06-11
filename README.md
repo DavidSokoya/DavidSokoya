@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hi! I'm David.</h2>
 
@@ -50,5 +49,5 @@
 <a href="https://www.linkedin.com/in/thedavidsokoya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Sokoya-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/thedavidsokoya"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-thedavidsokoya-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/thedavidsokoya"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thedavidsokoya-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:davidsokoya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davidsokoya@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:"sokoya08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davidsokoya@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
