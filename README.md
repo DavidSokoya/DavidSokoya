@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Frontend Developer & Blockchain Content Creator.
-- 🎓 &nbsp; Studying Computer Science at Olabisi Onabanjo University.
+- 🎓 &nbsp; Computer Scientist.
 - 💼 &nbsp; Currently working on Smart Contract Development.
 - 🌱 &nbsp; Learning more about Blockchain and Artificial Intelligence.
 - 💻 &nbsp; Electronics hobbyiest.
