@@ -41,7 +41,7 @@
 
 <p >
 <a href="https://www.linkedin.com/in/thedavidsokoya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Sokoya-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.tiktok.com/thedavidsokoya"><img alt="tiktok" src="https://img.shields.io/badge/Tiktok-thedavidsokoya-blue?style=flat-square&logo=tiktok"></a>
+<a href="https://www.tiktok.com/@thedavidsokoya"><img alt="tiktok" src="https://img.shields.io/badge/Tiktok-thedavidsokoya-blue?style=flat-square&logo=tiktok"></a>
 <a href="https://www.twitter.com/thedavidsokoya"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-thedavidsokoya-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:"sokoya08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davidsokoya@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
