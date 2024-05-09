@@ -1,7 +1,7 @@
 
 <h2> Hi! I'm David.</h2>
 
-<h3>Front-End Developer</h3>
+<h3>Full Stack Software Engineer</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
