@@ -5,14 +5,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Frontend Web Developer.
+- 🤔 &nbsp; Full Stack Software Engineer.
 - 💻 &nbsp; Tech enthusiast.
 - 🎓 &nbsp; Computer Scientist.
-- 🌱 &nbsp; Learning more about Artificial Intelligence.
-
+- 🌱 &nbsp; Learning more about AI & Blockchain.
 
 <h3> 🛠 &nbsp;Skills</h3>
-
 
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
