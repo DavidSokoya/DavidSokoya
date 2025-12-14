@@ -1,4 +1,4 @@
- <img src="images/david_sokoya.jpg" width="100%" alt="David Sokoya"/>
+ <img src="images/david_sokoya.jpeg" width="100%" alt="David Sokoya"/>
 
 <br>
 <p align="center">
