@@ -10,11 +10,8 @@
   </a>
   <a href="https://x.com/davidsokoya_" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://docs.google.com/document/d/1b9QbXR-ds7rbD9NjnI47mqecxFyJo-ASipy1oFPOdE4/edit?usp=sharing" target="_blank">
+  </a> 
+ <a href="https://docs.google.com/document/d/1b9QbXR-ds7rbD9NjnI47mqecxFyJo-ASipy1oFPOdE4/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
