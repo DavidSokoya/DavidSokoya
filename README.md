@@ -8,20 +8,20 @@
   <a href="https://www.linkedin.com/in/sokoyadavid/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://x.com/davidsokoyao" target="_blank">
+  <a href="https://x.com/davidsokoya_" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://shawncharles.com/angellist" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://s3.amazonaws.com/attachments.angel.co/11838793-597b4d7a38fab449f91b74b4546de761.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIATAVHNKYQZJY6IHGK%2F20250219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250219T040615Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHQaCXVzLXdlc3QtMiJIMEYCIQDoSkUrQFg%2B%2B0XmnV5PHxzPuQkH9VBVsrTDEVnC5ksOdAIhAM%2BGXvjRjMjZoPcKwtEinL9li8ttwvdBkiWQtt%2BAUMRLKpMFCJ3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMjA3NTgzMjcwNDMzIgyE8YQsXV%2BYjJ2Q70Mq5wRt%2FJ1nEGAJpjjmcrEI6BgrtsSD0%2Bw%2BtSeBtyiYB7eZrwA4TvU2NUyURNKWTEKS0u20bSGTXQxVu0lfnEcXLKP3Bw8UrHIFzuKm6TQs8Kf6dzghgNAPsxIW%2BjKfZsgs12jRhdFFzS51T2aQ%2FRinMb7vaX1%2FnmFCBhwk6IuECYG8t6hSvqE%2FNJ2EdihlVswwA0vrMi2K6bMGe5zC0PvfwoobjfvCNFrVLZfU7%2FYXDSv7I2%2F0UbBZrw2g062xdFz6AoXLC22S%2B2wzDvi0rc7UPR1rzhSwcLNdlf%2BQV9trYvu7CotnXv1ignnhftEYMSSSABRi3ZIuDfA1m6a2aXCJgaE%2BcCPfncd3yjOm4RpgW5HpqCs5LsHeNPHxqGkbHG3Cbdyz%2FA6ZK08OtRs%2FPoeuL76OslY1VUegNuGe%2B9wg3o8jFQ3aNtPyv7iyXt3AaeD%2Fqe4uz9QVBdE%2BI3bTWvqW3716THFOTunjkux5bi35jKFvdgK7WxZ7vUObPvt%2BeUxKLmW%2FJ5s%2B5p%2FBMwiX97NuKmBt0diAbTULXWkxIYukJyR9EDeKLYec5dT%2FnzMUr317o4CMhMeJU0uGRLnpRd2iRdPliOb5hFQw4Nj5pjC3rae8zuD%2B8YoqqWtU%2F0hKTXj4itwSi41wJVMCXWF5SITlfpcEo1mb9syV7kiqF4ZMOjl0XwU%2BHbxMdgw0Njj%2BbV0ygNPZ%2Fn1cl3SRBZGnfYD8dRbh0XmlX0FIpk1LLHWTXqme61DiDQHc529YSDNtu%2FkyVQ%2FZMJdot70rIbrV8EzeLNSME7hRLDAjbfJDFFaGbjJate8%2FmjjWPNYwmK%2FVvQY6mQGuKtOqqkftlKwwAmoDtHqaJnmwObXfK71sV8efj0jjVXOQ%2FYoUbmfJ0NWPvrb7wmWq7tmjWrUEwKz8b4NF7LtB8Yjj45PualRs0DNUyjYYIw4DO%2B3aF%2ByHtclwqyvkuQOtQAT%2BNib0pz3hn3w8w2wDhV7CDAojMt%2Fb6M6H0qZrdUMXuhl0T585y38PpV8rBePSgQmbKjOLxWA%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=aabc3f102be51fe9f9efabc8709d1497fc4e01936d39e3522a6aacfb3d0052be" target="_blank">
+  <a href="https://docs.google.com/document/d/1b9QbXR-ds7rbD9NjnI47mqecxFyJo-ASipy1oFPOdE4/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
 I build and improve software to enhance user experiences, focusing on streamlining business processes. My passion for learning drives me to optimize systems, knowing that small improvements can significantly impact user satisfaction.
 
-See [my website](https://davidsok.netlify.app) for more information!
+See [my website](https://davidsokoya.com) for more information!
 
 
 <h1 align="center">Projects</h1>
